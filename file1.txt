@@ -1,2 +1,2 @@
-We are worknig on SCM in jenkins
+We are worknig on build trigger in jenkins
 This is test job
